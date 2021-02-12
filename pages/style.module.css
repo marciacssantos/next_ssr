@@ -1,0 +1,22 @@
+
+.topo{
+    background-color: yellow;
+    height: 30vh;
+    padding-left: 40vh;
+    padding-top: 10vh;
+}
+
+.conteudo{
+    height: 60vh;
+    margin: auto;
+    padding-left: 40vh;
+    padding-top: 10vh;
+}
+
+.rodape{
+    height: 10vh;
+    margin: auto;
+    padding-left: 60vh;
+    padding-top: 10vh;
+  
+}
